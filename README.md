@@ -1,6 +1,6 @@
 # Portfolio
 
-Personal site for Olakunle Oduntan. Next.js, Tailwind CSS, and Framer Motion.
+Site for Olakunle Oduntan.
 
 ```bash
 npm install
